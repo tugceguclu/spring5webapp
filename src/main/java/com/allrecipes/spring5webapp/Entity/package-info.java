@@ -1,0 +1,1 @@
+package com.allrecipes.spring5webapp.Entity;
